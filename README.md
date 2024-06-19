@@ -22,6 +22,4 @@ cd foodApp/
 flutter run
 ```
 
-## Write Up
 
-I wrote a short article talking a little bit more in depth about this project on [my website](https://www.luisdibdin.uk/projects/diet-tracker/).
